@@ -40,8 +40,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Компьютерная помощь",
+        "meta_descr": "Компьютерная помощь в Феодосии\nСкорая компьютерная помощь\nКомпьютерный мастер",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
